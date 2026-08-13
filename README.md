@@ -42,3 +42,17 @@ You can find the official Kaggle course here: [Time Series](https://www.kaggle.c
 - Jupyter Notebook
 
 ---
+
+## Repository Structure
+
+```text
+Time-Series-Forecasting/
+│
+├── Linear Regression With Time Series/
+├── Trend/
+├── Seasonality/
+├── Time Series as Features/
+├── Hybrid Models/
+├── Forecasting With Machine Learning/
+└── README.md
+```
