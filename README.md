@@ -52,6 +52,15 @@ Time-Series-Forecasting/
 └── README.md
 ```
 
-## Learning Objectives
+## Future Topics
+
+As the repository evolves, it may include more advanced topics such as:
+
+- Prophet
+- XGBoost for Time-Series Forecasting
+- LSTM Networks
+- GRU Networks
+- Temporal Convolutional Networks
+- Transformer-Based Forecasting
 
 The goal of this repository is to develop a strong understanding of time-series data and the techniques used to analyze and forecast future values.
