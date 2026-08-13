@@ -51,3 +51,7 @@ Time-Series-Forecasting/
 ├── Forecasting With Machine Learning/
 └── README.md
 ```
+
+## Learning Objectives
+
+The goal of this repository is to develop a strong understanding of time-series data and the techniques used to analyze and forecast future values.
