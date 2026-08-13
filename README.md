@@ -18,11 +18,8 @@ You can find the official Kaggle course here: [Time Series](https://www.kaggle.c
 - Stationarity
 - Time-Series Data Preprocessing
 - Resampling & Rolling Windows
-- Autocorrelation & Partial Autocorrelation
 - Time-Series Forecasting
-- Moving Average Models
 - Machine Learning for Time-Series
-- Feature Engineering for Temporal Data
 - Forecast Evaluation
 - Anomaly Detection
 
