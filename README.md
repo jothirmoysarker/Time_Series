@@ -29,3 +29,16 @@ You can find the official Kaggle course here: [Time Series](https://www.kaggle.c
 - Anomaly Detection
 
 ---
+
+## Technologies
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- Statsmodels
+- Jupyter Notebook
+
+---
