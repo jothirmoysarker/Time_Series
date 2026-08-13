@@ -21,8 +21,6 @@ You can find the official Kaggle course here: [Time Series](https://www.kaggle.c
 - Autocorrelation & Partial Autocorrelation
 - Time-Series Forecasting
 - Moving Average Models
-- ARIMA
-- SARIMA
 - Machine Learning for Time-Series
 - Feature Engineering for Temporal Data
 - Forecast Evaluation
